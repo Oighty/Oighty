@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-👋  I’m Oighty, a developer mostly working on Ethereum Virtual Machine (EVM) based smart contracts and applications. I'm interested in Decentralized Finance (DeFi) and Gaming use cases on the blockchain.
+👋  I’m Jordan, a developer mostly working on Ethereum Virtual Machine (EVM) based smart contracts and applications. I'm interested in Decentralized Finance (DeFi) and Gaming use cases on the blockchain.
 
 ⚔️ I am part of the Solidity Guild, a collective of web3 developers.
 
