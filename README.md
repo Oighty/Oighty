@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 🪙  I built [raider.finance](https://raider.finance), an auto-compounding vault implementation for the Crypto Raiders LP staking contracts.
   
-🌱  I'm currently learning by doing deep-dive reviews of popular blockchain protocols and thinking about new innovations that could build on them.
+🌱  I'm currently working on some exciting new projects with OlympusDAO.
 
 📱  Message me on Twitter @oightytag
