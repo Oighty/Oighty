@@ -16,12 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-👋  I’m Jordan, a developer mostly working on Ethereum Virtual Machine (EVM) based smart contracts and applications. I'm interested in Decentralized Finance (DeFi) and Gaming use cases on the blockchain.
+👋  I’m Jordan, a developer mostly working on Ethereum Virtual Machine (EVM) based smart contracts and applications. I'm interested in Decentralized Finance (DeFi), L2s, dev tooling, and security..
 
 ⚔️ I am part of the [Solidity Guild](https://solidityguild.com), a collective of web3 developers.
 
-🪙  I built [raider.finance](https://raider.finance), an auto-compounding vault implementation for the Crypto Raiders LP staking contracts.
-  
 ⚡  I am a core contributor to [Olympus V3](https://github.com/OlympusDAO/olympus-v3) and [Bond Protocol](https://github.com/Bond-Protocol/bond-contracts).
 
 📱  Message me on Twitter @oightytag
