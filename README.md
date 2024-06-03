@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ⚔️ I am part of the [Solidity Guild](https://solidityguild.com), a collective of web3 developers.
 
-⚡  I am a core contributor to [Bond Protocol](https://github.com/Bond-Protocol/bond-contracts) and previously [Olympus V3](https://github.com/OlympusDAO/olympus-v3).
+⚡  I am a core contributor to [Axis](https://github.com/Axis-Fi/), [Bond Protocol](https://github.com/Bond-Protocol/bond-contracts), and previously [Olympus V3](https://github.com/OlympusDAO/olympus-v3).
 
-📱  Message me on Twitter @oightytag
+📱 Personal site with writing and a link to my contact information on various platforms: [https://oighty.eth.limo](https://oighty.eth.limo).
+
