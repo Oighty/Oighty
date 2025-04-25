@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-👋  I’m Jordan, a developer mostly working on Ethereum Virtual Machine (EVM) based smart contracts and applications. I'm interested in Decentralized Finance (DeFi), auction mechanisms, backend services, and dev tooling.
+👋  I’m Jordan, a developer working on Ethereum Virtual Machine (EVM) and Solana Virtual Machine (SVM) smart contracts and applications. I'm interested in Stablecoins, Decentralized Finance (DeFi), auction mechanisms, backend services, and dev tooling.
 
-⚔️ I am part of the [Solidity Guild](https://solidityguild.com), a collective of web3 developers.
+💸 I currently work at [M0](https://github.com/m0-foundation) building a stablecoin platform for builders.
 
-⚡  I am a core contributor to [Axis](https://github.com/Axis-Fi/), [Bond Protocol](https://github.com/Bond-Protocol/bond-contracts), and previously [Olympus V3](https://github.com/OlympusDAO/olympus-v3).
+⚡  I was previously a core contributor to [Axis](https://github.com/Axis-Fi/), [Bond Protocol](https://github.com/Bond-Protocol/bond-contracts), and [Olympus V3](https://github.com/OlympusDAO/olympus-v3).
 
 📱 Personal site with writing and a link to my contact information on various platforms: [https://oighty.eth.limo](https://oighty.eth.limo).
 
